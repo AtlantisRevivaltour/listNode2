@@ -1,7 +1,7 @@
 import res.ListNode;
 
 /**
- * Created by Syusuke on 2016/4/24 0024.；；；；；
+ * Created by Syusuke on 2016/4/24 0024.
  */
 public class Solution {
 
@@ -13,6 +13,6 @@ public class Solution {
 
     public static void main(String[] args ){
 
-        System.out.println("xxxxx");
+        System.out.println("xxxx我的 x");
     }
 }
