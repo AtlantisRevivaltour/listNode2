@@ -1,7 +1,7 @@
 import res.ListNode;
 
 /**
- * Created by Syusuke on 2016/4/24 0024.
+ * Created by Syusuke on 2016/4/24 0024.；；；；；
  */
 public class Solution {
 
